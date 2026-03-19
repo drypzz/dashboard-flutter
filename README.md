@@ -18,10 +18,8 @@
 | **Desktop**   | `> 900px`       | `Row` - 4 cards na mesma linha (horizontal)   |
 
 ### 🚀 Bônus Implementados
-* **Valores Dinâmicos e Interativos:** Implementação de `StatefulWidget` para gerar valores randomizados (`Mock`) sempre que o app é iniciado ou atualizado.
 * **Formatadores:** Formatação visual de moedas (R$) e separadores de milhar.
 * **Efeitos Visuais:** Uso de `Stack` e `Positioned` para criar ícones de marca d'água no fundo dos cards.
-* **Interatividade:** Cards clicáveis com efeito cascata (Ripple/`InkWell`), botões de "Detalhes" e exibição de alertas (`SnackBar`) para feedback do usuário.
 
 ---
 
