@@ -1,9 +1,9 @@
 # Dashboard Responsivo em Flutter
 
-**Atividade Prática - Aula 6** 
-**Disciplina:** Desenvolvimento para Dispositivos Móveis
-**Instituição:** FACULDADE SENAC JOINVILLE
-**Turma:** 5ª Fase Análise e Desenvolvimento de Sistemas 2026/1
+- **Atividade Prática - Aula 6** 
+- **Disciplina:** Desenvolvimento para Dispositivos Móveis
+- **Instituição:** FACULDADE SENAC JOINVILLE
+- **Turma:** 5ª Fase Análise e Desenvolvimento de Sistemas 2026/1
 
 ---
 
