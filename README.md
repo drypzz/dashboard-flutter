@@ -1,10 +1,5 @@
 # Dashboard Responsivo em Flutter
 
-- **Atividade Prática - Aula 6** 
-- **Disciplina:** Desenvolvimento para Dispositivos Móveis
-- **Instituição:** FACULDADE SENAC JOINVILLE
-- **Turma:** 5ª Fase Análise e Desenvolvimento de Sistemas 2026/1
-
 ---
 
 ## 📱 Sobre o Projeto Este projeto consiste na criação de um dashboard responsivo que se adapta automaticamente a diferentes tamanhos de tela (Mobile, Tablet e Desktop). 
