@@ -2,8 +2,12 @@
 
 ---
 
-## 📱 Sobre o Projeto Este projeto consiste na criação de um dashboard responsivo que se adapta automaticamente a diferentes tamanhos de tela (Mobile, Tablet e Desktop). 
- A interface reorganiza seus elementos baseando-se na largura da tela utilizando `MediaQuery`, distribuindo o espaço com `Expanded` e `Flexible`, e criando sobreposições de elementos visuais com `Stack` e `Positioned`. 
+## 📱 Sobre o Projeto
+
+- Este rojeto consiste na criação de um dashboard responsivo que se adapta automaticamente a diferentes tamanhos de tela (Mobile, Tablet e Desktop). 
+- A interface reorganiza seus elementos baseando-se na largura da tela utilizando `MediaQuery`, distribuindo o espaço com `Expanded` e `Flexible`, e criando sobreposições de elementos visuais com `Stack` e `Positioned`. 
+
+---
 
 ### 📐 Breakpoints Implementados
 | Dispositivo   | Largura         | Layout                                        |
